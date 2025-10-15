@@ -29,20 +29,4 @@ To build and evaluate models that can effectively detect fraudulent credit card 
 - Evaluation on multiple metrics (ROC-AUC, PR curve, recall for fraud class)  
 - Visualization & interpretation of results  
 
----
-
-## 🛠 Getting Started
-
-### Prerequisites
-
-You need:
-
-- Python ≥ 3.8  
-- `pip` or `conda`  
-- Basic ML / data science libraries: `numpy`, `pandas`, `scikit-learn`, `imbalanced-learn`, `matplotlib`, `seaborn`, `xgboost`, etc.
-
-You can optionally use a `requirements.txt` or `environment.yml` file:
-
-```bash
-pip install -r requirements.txt
 
